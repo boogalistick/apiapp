@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skipped="0" tests="1" time="0.178"><testcase classname="" file="tests/test_server.py" name="tests.test_server" time="0.000"><error message="collection failure">ImportError while importing test module &apos;/usr/src/app/tests/test_server.py&apos;.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+tests/test_server.py:7: in &lt;module&gt;
+    import psycopg2
+E   ModuleNotFoundError: No module named &apos;psycopg2&apos;</error></testcase></testsuite>
